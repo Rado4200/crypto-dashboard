@@ -1,6 +1,6 @@
 # 🚀 Crypto Market Dashboard
 
-![Crypto Dashboard](main.png)
+![Crypto Dashboard](main.PNG)
 
 A professional, real-time cryptocurrency market dashboard featuring live price tracking, market analytics, and interactive charts. Built with vanilla JavaScript, this responsive web application provides a sleek, modern interface for monitoring the top 100 cryptocurrencies.
 
