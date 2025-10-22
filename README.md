@@ -56,13 +56,13 @@ A professional, real-time cryptocurrency market dashboard featuring live price t
 
 ## 📸 Screenshots
 
-![Dashboard Overview](screenshots/overview.png)
+![Dashboard Overview](top-100.png)
 *Main dashboard with top 100 cryptocurrencies*
 
-![Winners Tab](screenshots/winners.png)
+![Winners Tab](winners.png)
 *Top gainers with positive price movements*
 
-![News Section](screenshots/news.png)
+![News Section](news.png)
 *Cryptocurrency news and updates*
 
 ## 💻 Installation & Usage
